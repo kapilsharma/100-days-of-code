@@ -1,6 +1,12 @@
 # 100 Days Of Code - PHPReboot.com 3.0
 
-### Day 0: Sunday, March 17th, 2019
+## Day 1: Monday, March 18th, 2019.
+
+- Issue#1 completed. Installed Laravel, generated PR and merged.
+- Planning on code quality & development, created issue 4, 5, and 6.
+- Issue#2 Not complete. Tried making mega-menu but failed :(
+
+## Day 0: Sunday, March 17th, 2019.
 
 - Forked kallaway/100-days-of-code as kapilsharma/100-days-of-code
   - Updated `rules.md` with today's date
