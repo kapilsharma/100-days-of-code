@@ -1,5 +1,12 @@
 # 100 Days Of Code - PHPReboot.com 3.0
 
+## Day 2: Tuesday, March 19th, 2019
+
+- Megamenu in bootstrap doesn't looked good. Also, saw Taylor using tailwind. Thus decided to compare CSS frameworks today. Compared Tailwind, and Bumla against bootstrap.
+  - Tailwind seems good but it do not have components. That means, there will be extra work on designing. Hmm, may be a last choice.
+  - Made few examples with Bumla. Looks good but documentation is not too good.
+- Status, still confused, Will check a bit more and if didn't find better choice, will go with bootstrap without mega menu.
+
 ## Day 1: Monday, March 18th, 2019.
 
 - Issue#1 completed. Installed Laravel, generated PR and merged.
