@@ -1,5 +1,13 @@
 # 100 Days Of Code - PHPReboot.com 3.0
 
+## Day 3: Wednesday, March 20th, 2019
+
+- After further looking Bumla and tailwind, decided not to use them for following reasons:
+  - Bumla's documentation is not clear and cant use it as master immediately
+  - Tailwind seems good and I'd like to use it in future, but immediate priority is to complete phpreboot website. Once we have initial working version, we may change design and at that time, can use tailwind.
+- Based on above reasons, decided to use bootstrap. It is proven and I and many other developer (who will probably contribute) have existing experience with bootstrap.
+- Created menu in bootstrap. Code committed to issue-2 branch.
+
 ## Day 2: Tuesday, March 19th, 2019
 
 - Megamenu in bootstrap doesn't looked good. Also, saw Taylor using tailwind. Thus decided to compare CSS frameworks today. Compared Tailwind, and Bumla against bootstrap.
