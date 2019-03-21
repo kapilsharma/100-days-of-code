@@ -1,5 +1,13 @@
 # 100 Days Of Code - PHPReboot.com 3.0
 
+## Day 4: Thursday, MArch 21st, 2019
+
+- Happy Holi. Although holiday, but was celebrating so couldn't do much.
+- Made header of home page.
+- With design, developed an idea of the site; Of the developers, by the developers, and for the developers.
+  - Need to made point system, which will give more access to the developers.
+  - This will be a bit of marketing :D
+
 ## Day 3: Wednesday, March 20th, 2019
 
 - After further looking Bumla and tailwind, decided not to use them for following reasons:
