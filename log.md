@@ -2,7 +2,7 @@
 
 ## Day 5: Friday, March 22nd, 2019
 
-- Completed top section (HTML design) of PHP Reboot. Looks good.
+- Completed top section (HTML design) of PHP Reboot. Looks good. Bootstrap is used only for the grid, rest all is custom CSS.
 
 ## Day 4: Thursday, March 21st, 2019
 
