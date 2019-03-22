@@ -1,6 +1,10 @@
 # 100 Days Of Code - PHPReboot.com 3.0
 
-## Day 4: Thursday, MArch 21st, 2019
+## Day 5: Friday, March 22nd, 2019
+
+- Completed top section (HTML design) of PHP Reboot. Looks good.
+
+## Day 4: Thursday, March 21st, 2019
 
 - Happy Holi. Although holiday, but was celebrating so couldn't do much.
 - Made header of home page.
