@@ -1,5 +1,9 @@
 # 100 Days Of Code - PHPReboot.com 3.0
 
+## Day 6: Saturday, MArch 23, 2019
+
+- Started working on articles on home page. Not completed.
+
 ## Day 5: Friday, March 22nd, 2019
 
 - Completed top section (HTML design) of PHP Reboot. Looks good. Bootstrap is used only for the grid, rest all is custom CSS.
