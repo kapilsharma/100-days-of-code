@@ -1,6 +1,10 @@
 # 100 Days Of Code - PHPReboot.com 3.0
 
-## Day 6: Saturday, MArch 23, 2019
+## Day 7: Sunday, March 24th, 2019.
+
+- Completed articles accordian on home page.
+
+## Day 6: Saturday, March 23rd, 2019
 
 - Started working on articles on home page. Not completed.
 
