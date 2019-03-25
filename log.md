@@ -1,5 +1,9 @@
 # 100 Days Of Code - PHPReboot.com 3.0
 
+## Day 8: Monday, March 25th, 2019.
+
+- Designed newsletter subscription form.
+
 ## Day 7: Sunday, March 24th, 2019.
 
 - Completed articles accordian on home page.
