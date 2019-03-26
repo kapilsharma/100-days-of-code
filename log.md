@@ -1,5 +1,10 @@
 # 100 Days Of Code - PHPReboot.com 3.0
 
+## Day 9: Tuesday, March 26th, 2019.
+
+- Completed on header menu
+- Worked on footer. Footer nearly complete, slight issues, half column going in different rows.
+
 ## Day 8: Monday, March 25th, 2019.
 
 - Designed newsletter subscription form.
