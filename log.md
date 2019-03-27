@@ -1,5 +1,9 @@
 # 100 Days Of Code - PHPReboot.com 3.0
 
+## Day 10: Wednesday, March 27th, 2019.
+
+- Created PR for home page design.
+
 ## Day 9: Tuesday, March 26th, 2019.
 
 - Completed on header menu
