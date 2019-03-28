@@ -1,5 +1,9 @@
 # 100 Days Of Code - PHPReboot.com 3.0
 
+## Day 11: Thursday, March 28th, 2019.
+
+- Made Blade Layout for PHP Reboot v3.0.
+
 ## Day 10: Wednesday, March 27th, 2019.
 
 - Created PR for home page design.
