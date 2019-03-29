@@ -1,5 +1,9 @@
 # 100 Days Of Code - PHPReboot.com 3.0
 
+## Day 12: Friday, March 29th, 2019
+
+- Issue-9: Started working on Authentication. Not complete.
+
 ## Day 11: Thursday, March 28th, 2019.
 
 - Made Blade Layout for PHP Reboot v3.0.
